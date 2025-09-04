@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmcleff" alt="harmcleff" /></a> </p>
 
-- 🔭 I’m currently working on [2geda](https://github.com/Harmcleff/Social-Network-app)
-
-- 🌱 I’m currently learning **django, react native**
-
 - 👯 I’m looking to collaborate on **any full stack Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harmcleff](https://github.com/Harmcleff)
 
-- 💬 Ask me about **Python, MySql, git, bash, Linux, javascript, sass, react**
+- 💬 Ask me about **Rust, Blockchain, Anchor, Solidity, Nextjs, Typescript, Python, MySql, git, bash, Linux, javascript, sass, react**
 
 - 📫 How to reach me **sanyaolu.oladimeji@gmail.com**
 
