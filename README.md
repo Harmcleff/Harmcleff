@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **sanyaoluhammed35@gmail.com**
 
-- 📄 Know about my experiences [hcteck.tech](hcteck.tech)
-
 - ⚡ Fun fact **I am good multitasker**
 
 <h3 align="left">Connect with me:</h3>
