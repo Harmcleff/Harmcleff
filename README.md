@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Rust, Blockchain, Anchor, Solidity, Nextjs, Typescript, Python, MySql, git, bash, Linux, javascript, sass, react**
 
-- 📫 How to reach me **sanyaolu.oladimeji@gmail.com**
+- 📫 How to reach me **sanyaoluhammed35@gmail.com**
 
 - 📄 Know about my experiences [hcteck.tech](hcteck.tech)
 
